@@ -10,4 +10,4 @@ Offhand, I would need the following functionality:
 
 I'd be updating this often, so check it out.
 
-My blog's currently residing at "alvinlai.com":alvinlai.com, just so you know :)
+My blog's currently residing at "alvinlai.com":http://alvinlai.com, just so you know :)
